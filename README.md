@@ -33,4 +33,4 @@ This project analyzes Instagram post data using Python.
 
 ## Author
 
-Ashrofa – Beginner Data Analyst
+Ashraf – Beginner Data Analyst
